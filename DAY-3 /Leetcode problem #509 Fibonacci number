@@ -1,4 +1,4 @@
-//Leetcode problem #509 Fibonacci Number//
+//Leetcode problem 509 Fibonacci Number//
 class Solution {
     public int fib(int n) {
         if(n==0){
